@@ -32,6 +32,10 @@ people:
     - title: github
       url: http://bogas04.github.io
 
+- name: Tarasha Khurana
+  pic: 3
+  position: Collaborator
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
