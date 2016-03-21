@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Mayank Badola
-  pic: 1
+  pic: 1.jpg
   position: Founder
   social:
     - title: twitter
@@ -24,8 +24,8 @@ people:
       url: http://mbad0la.github.io
 
 - name: Divjot Singh
-  pic: 2
-  position: Collaborator
+  pic: 2.jpg
+  position: Organisation Core
   social:
     - title: twitter
       url: https://twitter.com/bogas04
@@ -33,7 +33,7 @@ people:
       url: http://bogas04.github.io
 
 - name: Tarasha Khurana
-  pic: 3
+  pic: 3.jpeg
   position: Collaborator
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
