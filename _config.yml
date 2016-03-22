@@ -52,6 +52,15 @@ people:
     - title: github
       url: https://github.com/karanchahal
 
+- name: Aman Priyadarshi
+  pic: amaneureka.png
+  position: Collaborator
+  social:
+    - title: twitter
+      url: https://twitter.com/amaneureka
+    - title: github
+      url: http://github.com/amaneureka
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
