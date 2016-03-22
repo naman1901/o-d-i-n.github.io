@@ -1,0 +1,16 @@
+---
+title: nsit-fest
+subtitle: ReactJS Project
+layout: default
+modal-id: 3
+date: 2016-03-22
+img: nsit-fest.png
+thumbnail: nsit-fest.png
+alt: image-alt
+project-date: Feb 2016
+collaborators:
+  - "mbad0la"
+  - "bogas04"
+type: Website
+description: A react based frontend for NSIT fests.
+---
