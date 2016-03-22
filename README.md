@@ -1,8 +1,17 @@
 ### Roadmap
-* [ ] Furnish .github.io page
-* [ ] Get some 3-5 people to collaborate with
-* [ ] Hold interviews to get a core management team
+
+* [x] Furnish .github.io page
+* [x] Get some 3-5 people to collaborate with
+* [x] Hold interviews to get a core management team
 * [ ] Add ideas to the group after 7-10 people are added in the organisation
 * [ ] Assign mentors and promote projects to get contributors
 * [ ] Showcase projects once they are complete
 * [ ] Start doing conferences in the college
+
+### Collaborators
+
+All collaborators for ODIN are requested to submit a Pull Request to this repository to add yourself in the Team section of the page.
+
+Add your details in `_config.yml`. You can see the format to do that by referring to someone else's details.
+
+Add your image in `/img/team/`. You can see the image naming convention by referring to someone else's image.
