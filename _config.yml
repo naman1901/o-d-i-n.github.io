@@ -45,6 +45,13 @@ people:
   pic: 4.jpeg
   position: Collaborator
 
+- name: Karanbir Chahal
+  pic: 5.jpg
+  position: Collaborator
+  social:
+    - title: github
+      url: https://github.com/karanchahal
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
