@@ -61,6 +61,14 @@ people:
     - title: github
       url: http://github.com/amaneureka
 
+- name: Rahul Khanna
+  pic: 23.jpg
+  position: Collaborator
+  social:
+    - title: github
+      url: https://github.com/zerismo
+
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
