@@ -35,6 +35,9 @@ people:
 - name: Tarasha Khurana
   pic: 4.jpeg
   position: Collaborator
+  social:
+    - title: github
+      url: https://github.com/tarashakhurana
 
 - name: Karanbir Chahal
   pic: 5.jpg
