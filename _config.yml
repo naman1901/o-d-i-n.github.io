@@ -62,6 +62,14 @@ people:
     - title: github
       url: https://github.com/zerismo
 
+- name: Shubham Kumaram
+  pic: https://avatars0.githubusercontent.com/u/11754671?v=3&s=400
+  position: Collaborator
+  social:
+    - title: twitter
+      url: https://twitter.com/shubhamkrm
+    - title: github
+      url: http://github.com/shubhamkrm
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
