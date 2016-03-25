@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Mayank Badola
-  pic: 1.jpg
+  pic: https://avatars2.githubusercontent.com/u/8503331?v=3&s=400
   position: Founder
   social:
     - title: twitter
@@ -24,7 +24,7 @@ people:
       url: http://mbad0la.github.io
 
 - name: Divjot Singh
-  pic: 2.jpg
+  pic: https://avatars2.githubusercontent.com/u/6177621?v=3&s=400
   position: Org Core Member
   social:
     - title: twitter
@@ -33,21 +33,21 @@ people:
       url: http://bogas04.github.io
 
 - name: Tarasha Khurana
-  pic: 4.jpeg
+  pic: https://avatars2.githubusercontent.com/u/12378485?v=3&s=400
   position: Collaborator
   social:
     - title: github
       url: https://github.com/tarashakhurana
 
 - name: Karanbir Chahal
-  pic: 5.jpg
+  pic: https://avatars2.githubusercontent.com/u/13203966?v=3&s=400
   position: Collaborator
   social:
     - title: github
       url: https://github.com/karanchahal
 
 - name: Aman Priyadarshi
-  pic: amaneureka.png
+  pic: https://avatars3.githubusercontent.com/u/10295295?v=3&s=400
   position: Collaborator
   social:
     - title: twitter
@@ -56,12 +56,20 @@ people:
       url: http://github.com/amaneureka
 
 - name: Rahul Khanna
-  pic: 23.jpg
+  pic: https://avatars0.githubusercontent.com/u/11595304?v=3&s=400
   position: Collaborator
   social:
     - title: github
       url: https://github.com/zerismo
 
+- name: Shubham Kumaram
+  pic: https://avatars0.githubusercontent.com/u/11754671?v=3&s=400
+  position: Collaborator
+  social:
+    - title: twitter
+      url: https://twitter.com/shubhamkrm
+    - title: github
+      url: http://github.com/shubhamkrm
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
