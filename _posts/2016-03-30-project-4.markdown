@@ -1,0 +1,16 @@
+---
+title: all-contributors-atom
+subtitle: Atom Package
+layout: default
+modal-id: 4
+date: 2016-03-30
+img: allcontributors.png
+thumbnail: allcontributors.png
+alt: image-alt
+project-date: March 2016
+collaborators:
+  - "mbad0la"
+  - "bogas04"
+type: Utility
+description: Atom package for easy implementation of all-contributors spec within atom editor.
+---

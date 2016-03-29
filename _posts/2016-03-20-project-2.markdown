@@ -11,6 +11,6 @@ project-date: Feb 2016
 collaborators:
   - "mbad0la"
   - "bogas04"
-type: Utility
+type: CLI-tool
 description: Modern 'cat' for developers.
 ---
