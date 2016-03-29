@@ -14,4 +14,4 @@ All collaborators for ODIN are requested to submit a Pull Request to this reposi
 
 Add your details in `_config.yml`. You can see the format to do that by referring to someone else's details.
 
-Add your image in `/img/team/`. You can see the image naming convention by referring to someone else's image.
+For your image details, go to your github profile and copy your profile picture source from your profile page to the _pic_ variable.
