@@ -1,5 +1,5 @@
-url:
-baseurl:
+url: o-d-i-n.github.io
+baseurl: o-d-i-n.github.io
 
 # Site settings
 title: O.D.I.N.
@@ -63,7 +63,7 @@ people:
       url: https://twitter.com/shubhamkrm
     - title: github
       url: http://github.com/shubhamkrm
-      
+
 - name: Mohit Sharma
   pic: https://avatars0.githubusercontent.com/u/4974690?v=3&s=400
   position: Collaborator
