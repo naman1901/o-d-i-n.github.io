@@ -39,6 +39,13 @@ people:
     - title: github
       url: https://github.com/karanchahal
 
+- name: Prabhakar Gupta
+  pic: https://avatars2.githubusercontent.com/u/10768588?v=3&s=460
+  position: Collaborator
+  social:
+    - title: github
+      url: https://github.com/prabhakar267
+
 - name: Aman Priyadarshi
   pic: https://avatars3.githubusercontent.com/u/10295295?v=3&s=400
   position: Collaborator
