@@ -1,0 +1,16 @@
+---
+title: speed-tester
+subtitle: Javascrpit speed test API
+layout: default
+modal-id: 6
+date: 2016-04-09
+img: speed-tester.png
+thumbnail: speed-tester.png
+alt: image-alt
+project-date: April 2016
+collaborators:
+  - "mbad0la"
+  - "bogas04"
+type: Website
+description: An accurate and basic speed tester.
+---
