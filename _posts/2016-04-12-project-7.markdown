@@ -1,6 +1,6 @@
 ---
 title: DevBible
-subtitle: Textual Information
+subtitle: Development Guide
 layout: default
 modal-id: 7
 date: 2016-04-12
@@ -9,8 +9,11 @@ thumbnail: DevBible.png
 alt: image-alt
 project-date: April 2016
 collaborators:
-  - "mbad0la"
   - "bogas04"
-type: Scripture
+  - "mbad0la"
+  - "karanchahal"
+  - "amaneureka"
+  - "zerismo"
+type: Knowledge Source
 description: Some Holy Sermons from The Dev Community
 ---
