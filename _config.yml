@@ -16,7 +16,7 @@ color:
 people:
 - name: Mayank Badola
   pic: https://avatars2.githubusercontent.com/u/8503331?v=3&s=400
-  position: Founder
+  position: Core Member
   social:
     - title: twitter
       url: https://twitter.com/mbad0la
@@ -25,7 +25,7 @@ people:
 
 - name: Divjot Singh
   pic: https://avatars2.githubusercontent.com/u/6177621?v=3&s=400
-  position: Org Core Member
+  position: Core Member
   social:
     - title: twitter
       url: https://twitter.com/bogas04
@@ -34,14 +34,14 @@ people:
 
 - name: Karanbir Chahal
   pic: https://avatars2.githubusercontent.com/u/13203966?v=3&s=400
-  position: Collaborator
+  position: Core Member
   social:
     - title: github
       url: https://github.com/karanchahal
 
 - name: Prabhakar Gupta
   pic: https://avatars2.githubusercontent.com/u/10768588?v=3&s=460
-  position: Collaborator
+  position: Core Member
   social:
     - title: github
       url: https://github.com/prabhakar267
